@@ -37,7 +37,7 @@ export const copyFile = async (filePathes) => {
             }
             else console.log('File successfully copied!')
         }
-)
+    )
 }
 
 export const moveFile = async (filePathes) => {
